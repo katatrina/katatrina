@@ -1,12 +1,10 @@
-# Hi there, I'm Katatrina 👋
-
-> **Go Developer | Backend Engineer | Problem Solver**
+> **Golang Developer | Backend Engineer | Problem Solver**
 
 *Programming is challenging, but that's what makes it rewarding* 💪
 
 ## 🚀 About Me
 
-- 🔭 Currently building robust backend systems with **Go/Golang**
+- 🔭 Currently building robust backend systems with **Go**
 - 🌱 Passionate about **Data Structures & Algorithms** and clean code
 - 💡 Love solving complex problems and optimizing performance
 - 🎯 Focus on scalable web services and API development
@@ -16,7 +14,7 @@
 
 **Languages:**
 ```
-Go (Golang) • SQL • JavaScript
+Golang • SQL • JavaScript
 ```
 
 **Backend & Databases:**
@@ -32,7 +30,7 @@ Docker • Git • Linux • Postman • JWT
 ## 💻 Currently Working On
 
 - Mastering advanced Go patterns and idioms
-- Exploring microservices architecture
+- Exploring microservices architecture and distributed system
 - Strengthening DSA knowledge for technical interviews
 - Building more scalable and maintainable systems
 
